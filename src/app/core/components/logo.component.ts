@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   selector: 'app-logo',
   template: `
   <div class="logo"> 
-    <a routerLink="/catalog/list" > BOOK STORE</a>
+    <a routerLink="/catalog/list" > MAHAT BOOK STORE</a>
   </div>
   
   `,
